@@ -316,7 +316,7 @@ const styles = StyleSheet.create({
   searchResultsContainer: {
     backgroundColor: 'white',
     position: 'absolute',
-    top: 62,
+    top: 67,
     left: 0,
     right: 0,
     zIndex: 1,

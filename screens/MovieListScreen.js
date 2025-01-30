@@ -315,13 +315,13 @@ const styles = StyleSheet.create({
   searchResultsContainer: {
     backgroundColor: 'white',
     position: 'absolute',
-    top: 62,
+    top: 67,
     left: 0,
     right: 0,
     zIndex: 1,
     borderWidth: 1,
     borderColor: '#ccc',
-    maxHeight: 300,
+    maxHeight: 550,
     borderRadius: 10,
   },
   searchResultItem: {
